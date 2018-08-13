@@ -1,0 +1,7 @@
+{
+  "docs": {
+    "Basic Info": ["doc1", "doc2"],
+    "Main-Application": ["doc3"],
+    "Search - API": ["doc4"]
+  }
+}
