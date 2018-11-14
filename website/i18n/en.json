@@ -4,21 +4,35 @@
     "next": "Next",
     "previous": "Previous",
     "tagline": "Documents for support developers about Seoul Metropolitan Digital Archives Systems",
-    "doc1": "개발관련 기본 내용 1",
-    "개발관련 기본 내용 1": "개발관련 기본 내용 1",
-    "doc2": "개발관련 기본 내용 2",
-    "개발관련 기본 내용 2": "개발관련 기본 내용 2",
-    "doc3": "WEB 관련 개발 매뉴얼",
-    "WEB 관련 개발 매뉴얼": "WEB 관련 개발 매뉴얼",
-    "doc4": "검색 API 관련 문서",
-    "검색 API 관련 문서": "검색 API 관련 문서",
-    "Docs": "Docs",
-    "Engine": "Engine",
-    "Web": "Web",
-    "GitHub": "GitHub",
-    "Basic Info": "Basic Info",
-    "Main-Application": "Main-Application",
-    "Search - API": "Search - API"
+    "docs": {
+      "doc1": {
+        "title": "개발관련 기본 내용 1",
+        "sidebar_label": "개발관련 기본 내용 1"
+      },
+      "doc2": {
+        "title": "개발관련 기본 내용 2",
+        "sidebar_label": "개발관련 기본 내용 2"
+      },
+      "doc3": {
+        "title": "WEB 관련 개발 매뉴얼",
+        "sidebar_label": "WEB 관련 개발 매뉴얼"
+      },
+      "doc4": {
+        "title": "검색 API 관련 문서",
+        "sidebar_label": "검색 API 관련 문서"
+      }
+    },
+    "links": {
+      "Docs": "Docs",
+      "Engine": "Engine",
+      "Web": "Web",
+      "GitHub": "GitHub"
+    },
+    "categories": {
+      "Basic Info": "Basic Info",
+      "Main-Application": "Main-Application",
+      "Search - API": "Search - API"
+    }
   },
   "pages-strings": {
     "Help Translate|recruit community translators for your project": "Help Translate",
