@@ -23,15 +23,15 @@ const users = [
 const siteConfig = {
   title: 'SDA-DEV' /* title for your website */,
   tagline: 'Documents for support developers about Seoul Metropolitan Digital Archives Systems',
-  url: '/' /* your website url */,
-  baseUrl: '/' /* base url for your project */,
+  url: 'https://sda17dev.github.io' /* your website url */,
+  baseUrl: '/sda-dev-docs/' /* base url for your project */,
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
 
   // Used for publishing and more
-  projectName: 'Seoul Digital Archives',
-  organizationName: 'Seoul Metropolitan Archives',
+  projectName: 'sda-dev-docs',
+  organizationName: 'sda17dev',
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
   //   organizationName: 'JoelMarcey'
