@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://sda17dev.github.io/sda-dev-docs/blog</id>
+    <title>SDA-DEV Blog</title>
+    <updated>2017-04-10T06:00:00Z</updated>
+    <generator>Feed for Node.js</generator>
+    <link rel="alternate" href="https://sda17dev.github.io/sda-dev-docs/blog"/>
+    <subtitle>The best place to stay up-to-date with the latest SDA-DEV news and events.</subtitle>
+    <logo>https://sda17dev.github.io/sda-dev-docs/img/logo02@2x.png</logo>
+    <rights>Copyright © 2018 서울기록원 Seoul Metropolitan Archives</rights>
+    <entry>
+        <title type="html"><![CDATA[New Blog Post]]></title>
+        <id>https://sda17dev.github.io/sda-dev-docs/blog/2017/04/10/blog-post-two.html</id>
+        <link href="https://sda17dev.github.io/sda-dev-docs/blog/2017/04/10/blog-post-two.html">
+        </link>
+        <updated>2017-04-10T06:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.</p>
+]]></summary>
+        <author>
+            <name>Blog Author</name>
+            <uri>http://twitter.com/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[테스트 블로그]]></title>
+        <id>https://sda17dev.github.io/sda-dev-docs/blog/2016/03/11/blog-post.html</id>
+        <link href="https://sda17dev.github.io/sda-dev-docs/blog/2016/03/11/blog-post.html">
+        </link>
+        <updated>2016-03-11T06:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.</p>
+]]></summary>
+        <author>
+            <name>테스트 블로그</name>
+            <uri>http://twitter.com/</uri>
+        </author>
+    </entry>
+</feed>
