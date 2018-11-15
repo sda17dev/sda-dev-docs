@@ -1,30 +1,29 @@
 ---
 id: doc1
-title: 개발관련 기본 내용 1
-sidebar_label: 개발관련 기본 내용 1
+title: 서울기록원 디지털 아카이브 개발문서
+author: 개발팀(Slowalk)
+sidebar_label: 안내
 ---
 
-서울기록원의 개발 방향과 Github 정책에 대해 간단히 정리합니다.  
+서울기록원의 디지털 아카이브 개발 방향과 소스관리 정책에 대해 안내합니다. 
 [마크다운사용법 확인하기](https://docusaurus.io/docs/en/doc-markdown)
 
-## 제목1
+## 서울기록원의 개발 방향
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.
+디지털아카이브는 서울기록원(Seoul Metropolitan Archive)의 웹 소프트웨어를 지칭한다.  
+* Back-end System(내부시스템)은 엔진(Engine)
+* Front-end System(외부시스템)은 웹(Web)
+으로 정의한다. 서울기록원은 엔진과 웹이 MSA(Micro Service Architecture)에 따라서 개발되도록 2017년에서 2019년까지 시도했고, 지속적으로 개발내용과 방향을 공개해왔다. 2019년 초 서비스 공식 오픈과 함께 공개할 수 있는 최소한의 소스코드를 먼저 공개한다. 서울기록원의 디지털 아카이브 프로젝트의 개발 결과물이 기록을 관리하고 활용하는 다양한 기관에게 영향을 끼치길 바란다. 
 
-## 제목2
 
-```
-Mauris vestibulum ullamcorper nibh, ut semper purus pulvinar ut. Donec volutpat orci sit amet mauris malesuada, non pulvinar augue aliquam. Vestibulum ultricies at urna ut suscipit. Morbi iaculis, erat at imperdiet semper, ipsum nulla sodales erat, eget tincidunt justo dui quis justo. Pellentesque dictum bibendum diam at aliquet. Sed pulvinar, dolor quis finibus ornare, eros odio facilisis erat, eu rhoncus nunc dui sed ex. Nunc gravida dui massa, sed ornare arcu tincidunt sit amet. Maecenas efficitur sapien neque, a laoreet libero feugiat ut.
-```
+## 소스관리 정책
 
-## 제목3
+* 엔진(Engine)과 웹(Web)의 개발팀은 구분되어 있었고, 비공개 레포지토리(Repository)에서 관리한 이후 정비 이후에 소스코드를 공개했다.
+* 엔진(Engine) 소스코드 : 
+* 웹(Web) 소스코드 : 
+* 검색 API 및 Wrapper : 
 
-Nulla facilisi. Maecenas sodales nec purus eget posuere. Sed sapien quam, pretium a risus in, porttitor dapibus erat. Sed sit amet fringilla ipsum, eget iaculis augue. Integer sollicitudin tortor quis ultricies aliquam. Suspendisse fringilla nunc in tellus cursus, at placerat tellus scelerisque. Sed tempus elit a sollicitudin rhoncus. Nulla facilisi. Morbi nec dolor dolor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras et aliquet lectus. Pellentesque sit amet eros nisi. Quisque ac sapien in sapien congue accumsan. Nullam in posuere ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin lacinia leo a nibh fringilla pharetra.
 
-## 제목4
+## 개발문서의 관리
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin venenatis lectus dui, vel ultrices ante bibendum hendrerit. Aenean egestas feugiat dui id hendrerit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur in tellus laoreet, eleifend nunc id, viverra leo. Proin vulputate non dolor vel vulputate. Curabitur pretium lobortis felis, sit amet finibus lorem suscipit ut. Sed non mollis risus. Duis sagittis, mi in euismod tincidunt, nunc mauris vestibulum urna, at euismod est elit quis erat. Phasellus accumsan vitae neque eu placerat. In elementum arcu nec tellus imperdiet, eget maximus nulla sodales. Curabitur eu sapien eget nisl sodales fermentum.
-
-## 제목5
-
-Phasellus pulvinar ex id commodo imperdiet. Praesent odio nibh, sollicitudin sit amet faucibus id, placerat at metus. Donec vitae eros vitae tortor hendrerit finibus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque vitae purus dolor. Duis suscipit ac nulla et finibus. Phasellus ac sem sed dui dictum gravida. Phasellus eleifend vestibulum facilisis. Integer pharetra nec enim vitae mattis. Duis auctor, lectus quis condimentum bibendum, nunc dolor aliquam massa, id bibendum orci velit quis magna. Ut volutpat nulla nunc, sed interdum magna condimentum non. Sed urna metus, scelerisque vitae consectetur a, feugiat quis magna. Donec dignissim ornare nisl, eget tempor risus malesuada quis.
+왼쪽 목차에서 확인할 수 있듯이 엔진(Engine)과 웹(Web)의 개발문서와 가이드는 구분되어 있으니 해당 문서를 따로 참고하길 바란다. 
