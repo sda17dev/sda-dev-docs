@@ -1,7 +1,7 @@
 ---
 id: doc1
 title: 서울기록원 디지털 아카이브 개발문서
-author: 개발팀(Slowalk)
+author: 서울기록원
 sidebar_label: 안내
 ---
 

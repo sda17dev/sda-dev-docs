@@ -6,16 +6,16 @@
     "tagline": "Documents for support developers about Seoul Metropolitan Digital Archives Systems",
     "docs": {
       "doc1": {
-        "title": "개발관련 기본 내용 1",
-        "sidebar_label": "개발관련 기본 내용 1"
+        "title": "서울기록원 디지털 아카이브 개발문서",
+        "sidebar_label": "안내"
       },
       "doc2": {
-        "title": "개발관련 기본 내용 2",
-        "sidebar_label": "개발관련 기본 내용 2"
+        "title": "Engine 관련 개발문서",
+        "sidebar_label": "Engine 관련 개발문서"
       },
       "doc3": {
-        "title": "WEB 관련 개발 매뉴얼",
-        "sidebar_label": "WEB 관련 개발 매뉴얼"
+        "title": "WEB 개발 문서",
+        "sidebar_label": "WEB 개발 문서"
       },
       "doc4": {
         "title": "검색 API 관련 문서",
