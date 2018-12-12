@@ -1,7 +1,7 @@
 ---
 id: doc3
-title: Engine 관련 개발문서
-sidebar_label: Engine 관련 개발문서
+title: Engine 관련 개발문서 1
+sidebar_label: Engine 관련 개발문서 1
 ---
 
 서울기록원의 개발 방향과 Github 정책에 대해 간단히 정리합니다.

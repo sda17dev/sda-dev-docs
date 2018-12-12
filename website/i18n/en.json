@@ -3,23 +3,47 @@
   "localized-strings": {
     "next": "Next",
     "previous": "Previous",
-    "tagline": "Documents for support developers about Seoul Metropolitan Digital Archives Systems",
+    "tagline": "Documents for supporting developers of Seoul Digital Archives Systems",
     "docs": {
       "doc1": {
         "title": "서울기록원 디지털 아카이브 개발문서",
         "sidebar_label": "안내"
       },
+      "doc10": {
+        "title": "Wrapper 소개",
+        "sidebar_label": "Wrapper 소개"
+      },
       "doc2": {
-        "title": "Engine 관련 개발문서",
-        "sidebar_label": "Engine 관련 개발문서"
+        "title": "서울기록원 디지털 아카이브 개발문서(예비)",
+        "sidebar_label": "안내 (예비)"
       },
       "doc3": {
+        "title": "Engine 관련 개발문서 1",
+        "sidebar_label": "Engine 관련 개발문서 1"
+      },
+      "doc4": {
+        "title": "Engine 관련 개발문서 2",
+        "sidebar_label": "Engine 관련 개발문서 2"
+      },
+      "doc5": {
         "title": "WEB 개발 문서",
         "sidebar_label": "WEB 개발 문서"
       },
-      "doc4": {
+      "doc6": {
+        "title": "WEB 사용자 매뉴얼(공개된 서비스 사용자)",
+        "sidebar_label": "WEB 사용자 매뉴얼(공개된 서비스 사용자)"
+      },
+      "doc7": {
+        "title": "WEB 사용자 매뉴얼(서울기록원 직원)",
+        "sidebar_label": "WEB 사용자 매뉴얼(서울기록원 직원)"
+      },
+      "doc8": {
         "title": "검색 API 관련 문서",
         "sidebar_label": "검색 API 관련 문서"
+      },
+      "doc9": {
+        "title": "RestFul API 안내",
+        "sidebar_label": "RestFul API"
       }
     },
     "links": {
@@ -29,9 +53,12 @@
       "GitHub": "GitHub"
     },
     "categories": {
-      "Basic Info": "Basic Info",
-      "Main-Application": "Main-Application",
-      "Search - API": "Search - API"
+      "기본 정보": "기본 정보",
+      "주요 소프트웨어(Engine)": "주요 소프트웨어(Engine)",
+      "주요 소프트웨어(Web)": "주요 소프트웨어(Web)",
+      "Search API": "Search API",
+      "Restful API": "Restful API",
+      "Wrapper": "Wrapper"
     }
   },
   "pages-strings": {

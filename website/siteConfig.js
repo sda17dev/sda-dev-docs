@@ -23,7 +23,7 @@ const users = [
 const siteConfig = {
   title: 'SDA-Dev-Document' /* title for your website */,
   tagline: 'Documents for supporting developers of Seoul Digital Archives Systems',
-  url: 'https://sda17dev.github.io' /* your website url */,
+  url: 'https://archives.seoul.go.kr' /* your website url */,
   baseUrl: '/sda-dev-docs/' /* base url for your project */,
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
@@ -38,9 +38,9 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'doc1', label: 'Docs'},
-    {doc: 'doc2', label: 'Engine'},
-    {doc: 'doc3', label: 'Web'},
+    {doc: 'doc1', label: '개발문서'},
+    {doc: 'doc2', label: '보존시스템 - 엔진'},
+    {doc: 'doc3', label: '서비스시스템 - 웹'},
     {href: "https://github.com/sda17dev", label: "GitHub"}
     /*{page: 'help', label: 'Help'},*/
     /*{blog: true, label: 'Blog'},*/

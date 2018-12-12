@@ -1,7 +1,10 @@
 {
   "docs": {
-    "Basic Info": ["doc1", "doc2"],
-    "Main-Application": ["doc3"],
-    "Search - API": ["doc4"]
+    "기본 정보": ["doc1"],
+    "주요 소프트웨어(Engine)": [ "doc3","doc4"],
+    "주요 소프트웨어(Web)": [ "doc5","doc6","doc7"],
+    "Search API": ["doc8"],
+    "Restful API": ["doc9"],
+    "Wrapper": ["doc10"]
   }
 }
