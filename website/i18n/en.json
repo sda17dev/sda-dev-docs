@@ -30,16 +30,15 @@
         "sidebar_label": "WEB 개발 문서"
       },
       "doc6": {
-        "title": "WEB 사용자 매뉴얼(공개된 서비스 사용자)",
-        "sidebar_label": "WEB 사용자 매뉴얼(공개된 서비스 사용자)"
+        "title": "WEB 사용자 매뉴얼(시민)",
+        "sidebar_label": "WEB 사용자 매뉴얼(시민)"
       },
       "doc7": {
         "title": "WEB 사용자 매뉴얼(서울기록원 직원)",
         "sidebar_label": "WEB 사용자 매뉴얼(서울기록원 직원)"
       },
       "doc8": {
-        "title": "검색 API 관련 문서",
-        "sidebar_label": "검색 API 관련 문서"
+        "title": "doc8"
       },
       "doc9": {
         "title": "RestFul API 안내",
@@ -47,9 +46,9 @@
       }
     },
     "links": {
-      "Docs": "Docs",
-      "Engine": "Engine",
-      "Web": "Web",
+      "개발문서": "개발문서",
+      "보존시스템 - 엔진": "보존시스템 - 엔진",
+      "서비스시스템 - 웹": "서비스시스템 - 웹",
       "GitHub": "GitHub"
     },
     "categories": {
