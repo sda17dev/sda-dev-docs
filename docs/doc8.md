@@ -1,4 +1,4 @@
-12---
+---
 id: doc8
 title: 검색 API 관련 문서 
 sidebar_label: 검색 API 관련 문서 
