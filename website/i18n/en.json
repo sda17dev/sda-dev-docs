@@ -38,7 +38,8 @@
         "sidebar_label": "WEB 사용자 매뉴얼(서울기록원 직원)"
       },
       "doc8": {
-        "title": "doc8"
+        "title": "검색 API 관련 문서",
+        "sidebar_label": "검색 API 관련 문서"
       },
       "doc9": {
         "title": "RestFul API 안내",
