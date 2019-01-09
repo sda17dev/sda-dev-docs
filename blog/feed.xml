@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>SDA-DEV Blog</title>
+        <title>SDA-Dev-Document Blog</title>
         <link>https://sda17dev.github.io/sda-dev-docs/blog</link>
-        <description>The best place to stay up-to-date with the latest SDA-DEV news and events.</description>
+        <description>The best place to stay up-to-date with the latest SDA-Dev-Document news and events.</description>
         <lastBuildDate>Mon, 10 Apr 2017 06:00:00 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
-            <title>SDA-DEV Blog</title>
+            <title>SDA-Dev-Document Blog</title>
             <url>https://sda17dev.github.io/sda-dev-docs/img/logo02@2x.png</url>
             <link>https://sda17dev.github.io/sda-dev-docs/blog</link>
         </image>
-        <copyright>Copyright © 2018 서울기록원 Seoul Metropolitan Archives</copyright>
+        <copyright>Copyright © 2019 서울기록원 Seoul Metropolitan Archives</copyright>
         <item>
             <title><![CDATA[New Blog Post]]></title>
             <link>https://sda17dev.github.io/sda-dev-docs/blog/2017/04/10/blog-post-two.html</link>

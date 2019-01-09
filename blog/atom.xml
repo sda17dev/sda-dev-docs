@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sda17dev.github.io/sda-dev-docs/blog</id>
-    <title>SDA-DEV Blog</title>
+    <title>SDA-Dev-Document Blog</title>
     <updated>2017-04-10T06:00:00Z</updated>
     <generator>Feed for Node.js</generator>
     <link rel="alternate" href="https://sda17dev.github.io/sda-dev-docs/blog"/>
-    <subtitle>The best place to stay up-to-date with the latest SDA-DEV news and events.</subtitle>
+    <subtitle>The best place to stay up-to-date with the latest SDA-Dev-Document news and events.</subtitle>
     <logo>https://sda17dev.github.io/sda-dev-docs/img/logo02@2x.png</logo>
-    <rights>Copyright © 2018 서울기록원 Seoul Metropolitan Archives</rights>
+    <rights>Copyright © 2019 서울기록원 Seoul Metropolitan Archives</rights>
     <entry>
         <title type="html"><![CDATA[New Blog Post]]></title>
         <id>https://sda17dev.github.io/sda-dev-docs/blog/2017/04/10/blog-post-two.html</id>
