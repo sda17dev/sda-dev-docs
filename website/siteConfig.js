@@ -41,9 +41,10 @@ const siteConfig = {
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
     {doc: 'doc1', label: '개발문서'},
-    {doc: 'doc2', label: '보존시스템 - 엔진'},
-    {doc: 'doc3', label: '서비스시스템 - 웹'},
-    {href: "https://github.com/sda17dev", label: "GitHub"}
+    {doc: 'doc3', label: '엔진'},
+    {doc: 'doc5', label: '웹'},
+    {href: "https://github.com/sda17dev", label: "GitHub"},
+    {blog: true, label: '블로그'}
     /*{page: 'help', label: 'Help'},*/
     /*{blog: true, label: 'Blog'},*/
   ],
