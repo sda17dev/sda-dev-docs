@@ -10,7 +10,7 @@ sidebar_label: 안내
 
 ## 서울기록원의 개발 방향
 
-서울디지털아카이브는 서울기록원(Seoul Metropolitan Archive)의 웹 소프트웨어를 지칭합니다.  
+서울디지털아카이브는 서울기록원(Seoul Metropolitan Archive)의 웹 소프트웨어를 지칭한다. 
 * Back-end System(내부시스템)은 엔진(Engine)
 * Front-end System(외부시스템)은 웹(Web)
 으로 정의하며, 서울기록원은 엔진과 웹이 MSA(Micro Service Architecture)에 따라서 개발되도록 2017년에서 2019년까지 시도했고, 지속적으로 개발내용과 방향을 공개해왔습니다. 2019년 초 서비스 공식 오픈과 함께 공개할 수 있는 최소한의 소스코드를 먼저 공개합니다. 서울기록원의 디지털아카이브 프로젝트의 개발 결과물이 기록을 관리하고 활용하는 다양한 기관에게 영향을 끼치길 바랍니다.
@@ -30,5 +30,3 @@ sidebar_label: 안내
 * 이 웹 문서에 대한 소스 코드 : https://github.com/sda17dev/sda-dev-docs
 * 이 웹 문서에 대한 편집 권한을 얻기 위해서는 Github 계정을 소유하고, 서울기록원의 디지털아카이브 운영 담당자에게 문의를 통해 Github 계정 승인을 얻어야 합니다. 
 * 이 웹 문서는 Docusaurus 라는 공개된 소스를 활용해 작성되고 있으며 로컬 컴퓨터 편집기에서 작성해 간단한 명령을 통해 github pages에 배포할 수 있습니다. (개발문서의 Read.me 파일을 읽어보세요.)
-
-
