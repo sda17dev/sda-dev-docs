@@ -2,36 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sda17dev.github.io/sda-dev-docs/blog</id>
     <title>SDA-Dev-Document Blog</title>
-    <updated>2017-04-10T06:00:00Z</updated>
+    <updated>2019-01-12T06:00:00Z</updated>
     <generator>Feed for Node.js</generator>
     <link rel="alternate" href="https://sda17dev.github.io/sda-dev-docs/blog"/>
     <subtitle>The best place to stay up-to-date with the latest SDA-Dev-Document news and events.</subtitle>
     <logo>https://sda17dev.github.io/sda-dev-docs/img/logo02@2x.png</logo>
     <rights>Copyright © 2019 서울기록원 Seoul Metropolitan Archives</rights>
     <entry>
-        <title type="html"><![CDATA[New Blog Post]]></title>
-        <id>https://sda17dev.github.io/sda-dev-docs/blog/2017/04/10/blog-post-two.html</id>
-        <link href="https://sda17dev.github.io/sda-dev-docs/blog/2017/04/10/blog-post-two.html">
+        <title type="html"><![CDATA[WEB관련 문서 1차 공개]]></title>
+        <id>https://sda17dev.github.io/sda-dev-docs/blog/2019/01/12/open-sda-web-documents.html</id>
+        <link href="https://sda17dev.github.io/sda-dev-docs/blog/2019/01/12/open-sda-web-documents.html">
         </link>
-        <updated>2017-04-10T06:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.</p>
-]]></summary>
+        <updated>2019-01-12T06:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>WEB관련 문서를 1차 공개합니다. 정부와 진행하는 대부분의 개발 프로젝트에서는 완성도 있는 소스코드의 확인보다 문서와 감리 산출물을 요청합니다. 서울기록원 디지털아카이브 프로젝트에서는 타 개발팀이 가져다 쓸 수 있는 문서와 산출물을 내는데 좀 더 노력했습니다. 1차로 공개하는 문서에는 웹(WEB)개발 영역을 이해할 수 있는 개발문서와 주요한 타겟그룹에 해당되는 매뉴얼을 함께 공개합니다. 이어 2월까지 검색 및 외부 어플리케이션에서 사용할 수 ...</p>]]></summary>
         <author>
-            <name>Blog Author</name>
-            <uri>http://twitter.com/</uri>
+            <name>한운장(Slowalk)</name>
+            <uri>https://github.com/woonjjang</uri>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[테스트 블로그]]></title>
-        <id>https://sda17dev.github.io/sda-dev-docs/blog/2016/03/11/blog-post.html</id>
-        <link href="https://sda17dev.github.io/sda-dev-docs/blog/2016/03/11/blog-post.html">
+        <title type="html"><![CDATA[서울기록원 디지털아카이브 개발 커뮤니티에 오신 것을 환영합니다.]]></title>
+        <id>https://sda17dev.github.io/sda-dev-docs/blog/2018/12/20/welcome.html</id>
+        <link href="https://sda17dev.github.io/sda-dev-docs/blog/2018/12/20/welcome.html">
         </link>
-        <updated>2016-03-11T06:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.</p>
+        <updated>2018-12-20T06:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>안녕하세요.
+서울기록원 디지털아카이브 개발 커뮤니티에 오신 것을 환영합니다.
+공개된 이 문서는 서울기록원 디지털아카이브의 개발 프로젝트에 대한 이해를 높이고,
+오픈소스프로젝트인 서울기록원 디지털아카이브 프로젝트의 각 영역에 대한 소개를하고자 생성했습니다.</p>
+<p>추가적으로 개발 소스 및 개발 내역에 대한 공개, 인수인계를 돕고, 공개된 소스코드를 활용하고자 하는
+다양한 개발자 그룹을 지원하고자 시작합니다.</p>
+<ul>
+<li>엔진(보존시스템)</li>
+<li>웹(서비스시스템)</li>
+</ul>
 ]]></summary>
         <author>
-            <name>테스트 블로그</name>
-            <uri>http://twitter.com/</uri>
+            <name>한운장(Slowalk)</name>
+            <uri>https://github.com/woonjjang</uri>
         </author>
     </entry>
 </feed>

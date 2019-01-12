@@ -4,8 +4,8 @@
 <url> <loc>https://sda17dev.github.io/sda-dev-docs/index_ref_sample.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> <xhtml:link rel="alternate" hreflang="en" href="https://sda17dev.github.io/sda-dev-docs/en/index_ref_sample.html" /> </url>
 <url> <loc>https://sda17dev.github.io/sda-dev-docs/index.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> <xhtml:link rel="alternate" hreflang="en" href="https://sda17dev.github.io/sda-dev-docs/en/index.html" /> </url>
 <url> <loc>https://sda17dev.github.io/sda-dev-docs/users.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> <xhtml:link rel="alternate" hreflang="en" href="https://sda17dev.github.io/sda-dev-docs/en/users.html" /> </url>
-<url> <loc>https://sda17dev.github.io/sda-dev-docs/blog/2017/04/10/blog-post-two.html</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
-<url> <loc>https://sda17dev.github.io/sda-dev-docs/blog/2016/03/11/blog-post.html</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
+<url> <loc>https://sda17dev.github.io/sda-dev-docs/blog/2019/01/12/open-sda-web-documents.html</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
+<url> <loc>https://sda17dev.github.io/sda-dev-docs/blog/2018/12/20/welcome.html</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
 <url> <loc>https://sda17dev.github.io/sda-dev-docs/docs/doc1.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://sda17dev.github.io/sda-dev-docs/docs/doc1.html" /> </url>
 <url> <loc>https://sda17dev.github.io/sda-dev-docs/docs/doc10.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://sda17dev.github.io/sda-dev-docs/docs/doc10.html" /> </url>
 <url> <loc>https://sda17dev.github.io/sda-dev-docs/docs/doc2.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://sda17dev.github.io/sda-dev-docs/docs/doc2.html" /> </url>
