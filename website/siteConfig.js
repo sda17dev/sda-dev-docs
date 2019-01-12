@@ -44,13 +44,23 @@ const siteConfig = {
     {doc: 'doc3', label: '엔진'},
     {doc: 'doc5', label: '웹'},
     {href: "https://github.com/sda17dev", label: "GitHub"},
-    {blog: true, label: '블로그'}
+    {blog: true, label: '블로그'},
+    {search: true}
     /*{page: 'help', label: 'Help'},*/
     /*{blog: true, label: 'Blog'},*/
   ],
 
   // If you have users set above, you add it here:
   users,
+
+  /* Enabling the Search Bar-algolia */
+  algolia: {
+    apiKey: '6adcdc0795e1db08d89313081ffe5d81',
+    indexName: 'sda-dev-docs',
+    algoliaOptions: {
+      facetFilters: [ "language:LANGUAGE", "version:VERSION" ] 
+    } // Optional, if provided by Algolia
+  },
 
   /* path to images for header/footer */
   headerIcon: 'img/logo02@2x.png',
