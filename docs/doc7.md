@@ -40,8 +40,8 @@ sidebar_label: WEB 사용자 매뉴얼(서울기록원 직원)
 * 웹아카이브 및 소셜미디어 아카이브는 기록을 수집하는 외부 솔루션 “Archive-It”을 사용한다. 
 * 실제 기록을 일자별로 수집하고 저장하는 솔루션은  “Archive-It”
 * 기록과 관련된 시리즈 및 파일을 정의하는 곳은 엔진
-	* http://52.79.195.15/aggregation/8501
-	* http://52.79.195.15/aggregation/8506
+	* https://archives.seoul.go.kr/aggregation/8501
+	* https://archives.seoul.go.kr/aggregation/8506
 * 웹 검색에서 상위 시리즈, 파일 접근은 엔진에 DB동기화를 통해 제공하고
 * 기타 정보값은 “Archive-It”을 통해서 가져온다. 
 
