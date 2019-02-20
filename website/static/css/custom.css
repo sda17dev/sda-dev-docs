@@ -1,5 +1,15 @@
 /* your custom css */
 
+.container .wrapper .imageAlignSide h2 {
+    margin:0;
+}
+.container .wrapper .imageAlignSide h2 p {
+  margin-bottom:1rem
+}
+.container .wrapper .imageAlignSide p{
+  text-align:left
+}
+
 @media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
 }
 
