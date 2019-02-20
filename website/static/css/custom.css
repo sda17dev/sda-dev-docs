@@ -1,5 +1,7 @@
 /* your custom css */
-
+.fixedHeaderContainer header img {
+    margin-right: 1rem;
+}
 .container .wrapper .imageAlignSide h2 {
     margin:0;
 }
